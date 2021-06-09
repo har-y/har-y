@@ -26,13 +26,13 @@
 <img src="https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=046ad9&labelColor=000000)"/>
 </p>
 
-<p align='center'>🛠️ a small demo of my works: 🛠️</p>
+<p align='center'>🛠️ a small demo of my works: 🛠️
 
 <a href="https://simmer.io/@hary">
   <img
     src="https://img.shields.io/badge/-Simmer.io-000000?style=flat&logo=itch-dot-io&logoColor=ffffff&labelColor=000000"
   />
-</a>
+</a></p>
 
 <p align='center'>📫 contact with me: 📫</p>
 
@@ -46,7 +46,7 @@
   <img
     src="https://img.shields.io/badge/gmail-jakub.harenda@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black"
   />
-</a>
+</a></p>
 <!--
 **har-y/har-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
