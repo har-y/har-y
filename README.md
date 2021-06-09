@@ -27,7 +27,7 @@
 </p>
 
 <p align='center'>🛠️ a small demo of my works: 🛠️
-
+<br>
 <a href="https://simmer.io/@hary">
   <img
     src="https://img.shields.io/badge/-Simmer.io-000000?style=flat&logo=itch-dot-io&logoColor=ffffff&labelColor=000000"
@@ -35,7 +35,7 @@
 </a></p>
 
 <p align='center'>📫 contact with me: 📫</p>
-
+<br>
 <a href="https://www.linkedin.com/in/jakub-harenda/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Jakub%20Harenda-blue?logo=Linkedin&logoColor=blue&labelColor=black"
