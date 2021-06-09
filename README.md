@@ -2,7 +2,8 @@
 <p align='center'>💬 A graduate of the poznań university of technology, wishing to develop his passion which is programming. Concentrated on expanding practical knowledge and gaining professional experience. 💬</p>
 
 <p align="center">
-💻 **languages and tools:** 💻 <br>
+💻 languages and tools: 💻
+<br>
 <img src="https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=68217A&labelColor=000000)"/>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=2596BE&labelColor=000000)"/>
 
@@ -23,8 +24,8 @@
 <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=ffffff&labelColor=000000)"/>
 
 <img src="https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=046ad9&labelColor=000000)"/>
-
 </p>
+
 <p align='center'>🛠️ a small demo of my works: 🛠️</p>
 
 [![SimmerDotIo](https://img.shields.io/badge/-Simmer.io-000000?style=flat&logo=itch-dot-io&logoColor=ffffff&labelColor=000000)](https://simmer.io/@hary)
