@@ -29,6 +29,7 @@
 [![SimmerDotIo](https://img.shields.io/badge/-Simmer.io-000000?style=flat&logo=itch-dot-io&logoColor=ffffff&labelColor=000000)](https://simmer.io/@hary)
 
 **contact with me:**
+
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Jakub%20Harenda-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/jakub-harenda/)
 [![Mail](https://img.shields.io/badge/gmail-jakub.harenda@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:jakub.harenda@gmail.com)
