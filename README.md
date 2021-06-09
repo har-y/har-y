@@ -1,4 +1,4 @@
-<h2 align='center'><samp><strong>Hi there 👋, I'm Kuba Harenda - aka har-y</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, I'm Kuba Harenda</strong></samp></h2>
 <p align='center'>💬 A graduate of the poznań university of technology, wishing to develop his passion which is programming. Concentrated on expanding practical knowledge and gaining professional experience. 💬</p>
 
 <p align="center">
