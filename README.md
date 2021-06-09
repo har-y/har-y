@@ -24,11 +24,11 @@
 
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=046ad9&labelColor=000000)
 
-🛠️ **a small demo of my works:** 🛠️
+<p align='center'>🛠️ a small demo of my works:</p> 🛠️
 
 [![SimmerDotIo](https://img.shields.io/badge/-Simmer.io-000000?style=flat&logo=itch-dot-io&logoColor=ffffff&labelColor=000000)](https://simmer.io/@hary)
 
-📫 **contact with me:** 📫<br>
+<p align='center'>📫 contact with me: 📫</p><br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Jakub%20Harenda-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/jakub-harenda/)
 [![Mail](https://img.shields.io/badge/gmail-jakub.harenda@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:jakub.harenda@gmail.com)
