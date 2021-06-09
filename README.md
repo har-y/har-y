@@ -1,18 +1,7 @@
-### contact with me:
-
-<br>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Jakub%20Harenda-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/jakub-harenda/)
-[![Mail](https://img.shields.io/badge/gmail-jakub.harenda@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:jakub.harenda@gmail.com)
-
-<br/>
-
-**hi there, i'm Kuba Harenda - aka har-y** ⚡⚡
-
 <h2 align='center'><samp><strong>Hi there 👋, I'm Kuba Harenda - aka har-y</strong></samp></h2>
 <p align='center'>💬 A graduate of the poznań university of technology, wishing to develop his passion which is programming. Concentrated on expanding practical knowledge and gaining professional experience. 💬</p>
 
-💻 **languages and tools:** 💻
+💻 **languages and tools:** 💻 <br>
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=68217A&labelColor=000000)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=2596BE&labelColor=000000)
 
@@ -37,6 +26,15 @@
 ### a small demo of my works:
 
 [![SimmerDotIo](https://img.shields.io/badge/-Simmer.io-000000?style=flat&logo=itch-dot-io&logoColor=ffffff&labelColor=000000)](https://simmer.io/@hary)
+
+### contact with me:
+
+<br>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Jakub%20Harenda-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/jakub-harenda/)
+[![Mail](https://img.shields.io/badge/gmail-jakub.harenda@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:jakub.harenda@gmail.com)
+
+<br/>
 
 <!--
 **har-y/har-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
