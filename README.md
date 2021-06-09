@@ -32,24 +32,20 @@
 </div>
 
 <p align='center'>🛠️ a small demo of my works: 🛠️</p>
-<br>
-<br>
-<a href="https://simmer.io/@hary">
-  <img
-    src="https://img.shields.io/badge/-Simmer.io-000000?style=flat&logo=itch-dot-io&logoColor=ffffff&labelColor=000000"/>
-</a>
-
+<div align="center">
+  <a href="https://simmer.io/@hary">
+  <img src="https://img.shields.io/badge/-Simmer.io-000000?style=flat&logo=itch-dot-io&logoColor=ffffff&labelColor=000000"/>
+  </a>
+</div>
 <p align='center'>📫 contact with me: 📫</p>
-<br>
-<br>  
-<a href="https://www.linkedin.com/in/jakub-harenda/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Jakub%20Harenda-blue?logo=Linkedin&logoColor=blue&labelColor=black"/>
-</a>
-<a href="mailto:jakub.harenda@gmail.com">
-  <img
-    src="https://img.shields.io/badge/gmail-jakub.harenda@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black"/>
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/jakub-harenda/">
+  <img src="https://img.shields.io/badge/LinkedIn-Jakub%20Harenda-blue?logo=Linkedin&logoColor=blue&labelColor=black"/>
+  </a>
+  <a href="mailto:jakub.harenda@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-jakub.harenda@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black"/>
+  </a>
+</div>
 
 <!--
 **har-y/har-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
