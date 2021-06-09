@@ -3,8 +3,7 @@
 
 <p align="center">
 💻 languages and tools: 💻
-<br>
-<br>
+</p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=68217A&labelColor=000000)"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=2596BE&labelColor=000000)"/>
