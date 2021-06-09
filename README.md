@@ -28,25 +28,28 @@
 
 <p align='center'>🛠️ a small demo of my works: 🛠️
 <br>
+<br>
+
 <a href="https://simmer.io/@hary">
   <img
     src="https://img.shields.io/badge/-Simmer.io-000000?style=flat&logo=itch-dot-io&logoColor=ffffff&labelColor=000000"
   />
 </a></p>
 
-<p align='center'>📫 contact with me: 📫</p>
+<p align='center'>📫 contact with me: 📫
 <br>
+<br>  
 <a href="https://www.linkedin.com/in/jakub-harenda/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Jakub%20Harenda-blue?logo=Linkedin&logoColor=blue&labelColor=black"
   />
 </a>
-
 <a href="mailto:jakub.harenda@gmail.com">
   <img
     src="https://img.shields.io/badge/gmail-jakub.harenda@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black"
   />
-</a></p>
+</a>
+</p>
 <!--
 **har-y/har-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
