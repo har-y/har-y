@@ -1,7 +1,7 @@
 <h2 align='center'><samp><strong>Hi there 👋, I'm Kuba Harenda</strong></samp></h2>
 
 <p align='center'>💬 A graduate of the poznań university of technology, wishing to develop his passion which is programming. Concentrated on expanding practical knowledge and gaining professional experience. 💬</p>
-
+<br>
 <p align="center">💻 languages and tools: 💻</p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=68217A&labelColor=000000)"/>
@@ -29,7 +29,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=046ad9&labelColor=000000)"/>
 </div>
-
+<br>
 <p align='center'>🛠️ a small demo of my works: 🛠️</p>
 <div align="center">
   <a href="https://simmer.io/@hary">
