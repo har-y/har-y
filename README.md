@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/-Simmer.io-000000?style=flat&logo=itch-dot-io&logoColor=ffffff&labelColor=000000"/>
   </a>
 </div>
+<br>
 <p align='center'>📫 contact with me: 📫</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/jakub-harenda/">
