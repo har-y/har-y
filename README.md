@@ -5,8 +5,10 @@
 💻 languages and tools: 💻
 <br>
 <br>
-<img src="https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=68217A&labelColor=000000)"/>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=2596BE&labelColor=000000)"/>
+<div>
+  <img src="https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=68217A&labelColor=000000)"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=2596BE&labelColor=000000)"/>
+</div>
 <br> 
 <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26&labelColor=000000)"/>
 <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6&labelColor=000000)"/>
