@@ -14,7 +14,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/-C%20Sharp-000000?style=flat&logo=c-sharp&logoColor=7f3089&labelColor=000000)"/>
-  <img src="https://img.shields.io/badge/-.NET-000000?style=flat&logo=dot-net&logoColor=7f3089&labelColor=000000)"/>
+  <img src="https://img.shields.io/badge/-.NET-000000?style=flat&logo=dotnet&logoColor=ffffff&labelColor=000000)"/>
   <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=ffffff&labelColor=000000)"/>
 </div>
 <div align="center">
@@ -33,7 +33,7 @@
 <p align='center'>🛠️ a small demo of my works: 🛠️</p>
 <div align="center">
   <a href="https://simmer.io/@hary">
-  <img src="https://img.shields.io/badge/-Simmer.io-000000?style=flat&logo=itch-dot-io&logoColor=ffffff&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/-Simmer.io-000000?style=flat&logo=itchdotio&logoColor=ffffff&labelColor=000000"/>
   </a>
 </div>
 <br>
