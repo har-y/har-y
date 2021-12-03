@@ -32,8 +32,9 @@
   <img src="https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=046ad9&labelColor=000000)"/>
 </div>
 <br>
-<p align='center'>🔭 I’m currently working on 
-  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ffffff&labelColor=000000)"/> 🔭</p>
+<p align='center'>I’m currently working on:
+  <br>
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ffffff&labelColor=000000)"/></p>
 <br>
 <p align='center'>🛠️ a small demo of my works: 🛠️</p>
 <div align="center">
