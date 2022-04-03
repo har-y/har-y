@@ -15,11 +15,6 @@
   <img src="https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=d62e89&labelColor=000000)"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/-C%20Sharp-000000?style=flat&logo=c-sharp&logoColor=7f3089&labelColor=000000)"/>
-  <img src="https://img.shields.io/badge/-.NET-000000?style=flat&logo=dotnet&logoColor=ffffff&labelColor=000000)"/>
-  <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=ffffff&labelColor=000000)"/>
-</div>
-<div align="center">
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=ffffff&labelColor=000000)"/>
   <img src="https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender&logoColor=e77c0c&labelColor=000000)"/>
   <img src="https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe-photoshop&logoColor=2596BE&labelColor=000000)"/>
