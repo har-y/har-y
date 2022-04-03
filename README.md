@@ -32,13 +32,6 @@
   <br>
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=2596BE&labelColor=000000)"/></p>
 <br>
-<p align='center'>🛠️ a small demo of my works: 🛠️</p>
-<div align="center">
-  <a href="https://simmer.io/@hary">
-  <img src="https://img.shields.io/badge/-Simmer.io-000000?style=flat&logo=itchdotio&logoColor=ffffff&labelColor=000000"/>
-  </a>
-</div>
-<br>
 <p align='center'>📫 contact with me: 📫</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/jakub-harenda/">
