@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=046ad9&labelColor=000000)"/>
 </div>
 <br>
-<p align='center'>I’m currently working on:
+<p align='center'>i’m currently working on:
   <br>
   <br>
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=2596BE&labelColor=000000)"/></p>
