@@ -15,16 +15,13 @@
   <img src="https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=d62e89&labelColor=000000)"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=ffffff&labelColor=000000)"/>
-  <img src="https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender&logoColor=e77c0c&labelColor=000000)"/>
-  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe-photoshop&logoColor=2596BE&labelColor=000000)"/>
-</div>
-<div align="center">
   <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=000000)"/>
   <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=ffffff&labelColor=000000)"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=046ad9&labelColor=000000)"/>
+  <img src="https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=ffffff&labelColor=000000)"/>
+  <img src="https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender&logoColor=e77c0c&labelColor=000000)"/>
+  <img src="https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe-photoshop&logoColor=2596BE&labelColor=000000)"/>
 </div>
 <br>
 <p align='center'>i’m currently working on:
