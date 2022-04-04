@@ -1,9 +1,8 @@
 <h2 align='center'><samp><strong>Hi there 👋, I'm Kuba Harenda</strong></samp></h2>
-
 <p align='center'>A graduate of the poznań university of technology, wishing to develop his passion which is programming.</p>
 <p align="center">Concentrated on expanding practical knowledge and gaining professional experience.</p>
-<samp><br></samp>
-<p align="center">languages and tools:</p>
+
+## <h4 align="center">languages and tools:</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=68217A&labelColor=000000)"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=2596BE&labelColor=000000)"/>
@@ -24,11 +23,12 @@
   <img src="https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender&logoColor=e77c0c&labelColor=000000)"/>
   <img src="https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe-photoshop&logoColor=2596BE&labelColor=000000)"/>
 </div>
+<h4 align='center'>currently working/learning on:</h4>
+<div align="center">
+  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=2596BE&labelColor=000000)"/>
+</div>
 <br>
-<p align='center'>i’m currently working on:
-  <br>
-  <br>
-  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=2596BE&labelColor=000000)"/></p>
+<br>
 <br>
 <p align='center'>contact with me:</p>
 <div align="center">
