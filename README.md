@@ -1,8 +1,9 @@
 <h2 align='center'><samp><strong>Hi there 👋, I'm Kuba Harenda</strong></samp></h2>
 
-<p align='center'>💬 A graduate of the poznań university of technology, wishing to develop his passion which is programming. Concentrated on expanding practical knowledge and gaining professional experience. 💬</p>
+<p align='center'>A graduate of the poznań university of technology, wishing to develop his passion which is programming.</p>
+<p align="center">Concentrated on expanding practical knowledge and gaining professional experience.</p>
 <br>
-<p align="center">💻 languages and tools: 💻</p>
+<p align="center">languages and tools:</p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=68217A&labelColor=000000)"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=2596BE&labelColor=000000)"/>
@@ -29,7 +30,7 @@
   <br>
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=2596BE&labelColor=000000)"/></p>
 <br>
-<p align='center'>📫 contact with me: 📫</p>
+<p align='center'>contact with me:</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/jakub-harenda/">
   <img src="https://img.shields.io/badge/LinkedIn-Jakub%20Harenda-blue?logo=Linkedin&logoColor=blue&labelColor=black"/>
