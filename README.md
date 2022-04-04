@@ -2,7 +2,7 @@
 
 <p align='center'>A graduate of the poznań university of technology, wishing to develop his passion which is programming.</p>
 <p align="center">Concentrated on expanding practical knowledge and gaining professional experience.</p>
-<br>
+##<br>
 <p align="center">languages and tools:</p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=68217A&labelColor=000000)"/>
