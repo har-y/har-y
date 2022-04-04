@@ -24,12 +24,12 @@
   <img src="https://img.shields.io/badge/-Blender-000000?style=flat&logo=blender&logoColor=e77c0c&labelColor=000000)"/>
   <img src="https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe-photoshop&logoColor=2596BE&labelColor=000000)"/>
 </div>
-<br>
+##<br>
 <p align='center'>i’m currently working on:
   <br>
   <br>
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=2596BE&labelColor=000000)"/></p>
-<br>
+###<br>
 <p align='center'>contact with me:</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/jakub-harenda/">
