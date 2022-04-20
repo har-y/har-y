@@ -1,6 +1,6 @@
 <h2 align='center'><samp><strong>Hi there 👋, I'm Kuba Harenda</strong></samp></h2>
-<p align='center'>a graduate of the poznan university of technology, wishing to develop his passion which is programming.</p>
-<p align="center">concentrated on expanding practical knowledge and gaining professional experience.</p>
+<p align='center'><em>a graduate of the poznan university of technology, wishing to develop his passion which is programming.
+  <br> concentrated on expanding practical knowledge and gaining professional experience.</em></p>
 
 ## <h4 align="center">languages and tools:</h4>
 <div align="center">
