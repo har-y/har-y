@@ -4,7 +4,6 @@
 
 ## <h4 align="center">languages and tools:</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=68217A&labelColor=000000)"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code&logoColor=2596BE&labelColor=000000)"/>
 </div>
 <div align="center">
@@ -30,7 +29,7 @@
 <br>
 <br>
 <br>
-<p align='center'>contact with me:</p>
+<p align='center'>contact:</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/jakub-harenda/">
   <img src="https://img.shields.io/badge/LinkedIn-Jakub%20Harenda-blue?logo=Linkedin&logoColor=blue&labelColor=black"/>
